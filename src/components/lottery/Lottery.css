@@ -1,0 +1,16 @@
+ul{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+ul > li{
+    background-color: #7390df;
+    min-width: 20px;
+    min-height:20px;
+    color: #ffffff;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 50%;
+    border: solid 2px rgb(28, 97, 226);
+    text-align: center;
+}
